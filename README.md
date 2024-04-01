@@ -20,7 +20,9 @@ This project has no commercial intentions and is merely a hobby project that was
 
 ## Faults / Faulty Components
 
-### `C8_I`
+### HR-16
+
+`C?`
 
 * C = 4.7 uF
 * U = 50 V
@@ -28,7 +30,7 @@ This project has no commercial intentions and is merely a hobby project that was
 * Height = 12 mm
 * Fault: short circuit
 
-### `C6_I`
+`C?`
 
 * C = 470 uF
 * U = 25 V
@@ -36,7 +38,9 @@ This project has no commercial intentions and is merely a hobby project that was
 * Height 16 mm
 * Fault: short circuit
 
+`LCD connected to J12`
 
+* 
 
 ## License
 
