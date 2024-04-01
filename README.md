@@ -15,7 +15,28 @@ This project has no commercial intentions and is merely a hobby project that was
 
 ## Schematic Naming Conventions
 
-* Parts are typically numbered automatically in KiCAD. To get sure, the part names correspond to the real ones on the PCB, the suffix `_I` is added to all __correct identified__ componontes (e.g. C6 becomes `C6_I`). This ensures that the name in the schematic will stay static and indicates that it is the real name of the component.
+* Parts are typically numbered automatically in KiCAD. To get sure, the part names correspond to the real ones on the PCB, the suffix `_I` is added to all __correct identified__ componontes (e.g. `C6` becomes `C6_I`). This ensures that the name in the schematic will stay static and indicates that it is the real name of the component.
+
+
+## Faults / Faulty Components
+
+### `C8_I`
+
+* C = 4.7 uF
+* U = 50 V
+* Pitch = 2,54 mm
+* Height = 12 mm
+* Fault: short circuit
+
+### `C6_I`
+
+* C = 470 uF
+* U = 25 V
+* Pitch 5,08 mm
+* Height 16 mm
+* Fault: short circuit
+
+
 
 ## License
 
