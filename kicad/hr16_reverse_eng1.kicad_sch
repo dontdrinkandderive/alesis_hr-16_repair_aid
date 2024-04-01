@@ -1,0 +1,133 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "99eda9a6-00e0-493c-b2d1-8a5acb1e41f8")
+	(paper "A4")
+	(title_block
+		(title "Alesis HR-16 RevEng")
+		(date "2024-03-31")
+		(rev "0.1")
+		(company "dontdrinkandderive")
+	)
+	(lib_symbols)
+	(sheet
+		(at 141.224 27.178)
+		(size 50.546 32.512)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "36e7cded-d7c8-47ce-8393-af28b9ce42d8")
+		(property "Sheetname" "DAC"
+			(at 141.224 26.4664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac.kicad_sch"
+			(at 141.224 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hr16_reverse_eng1"
+				(path "/99eda9a6-00e0-493c-b2d1-8a5acb1e41f8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 27.432)
+		(size 48.768 32.258)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b9f490c-bbd5-49b4-ab98-d502df741b71")
+		(property "Sheetname" "CPU"
+			(at 88.9 26.7204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU.kicad_sch"
+			(at 88.9 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hr16_reverse_eng1"
+				(path "/99eda9a6-00e0-493c-b2d1-8a5acb1e41f8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.146 27.686)
+		(size 54.102 32.004)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "743bf952-0b32-4d1f-99e2-68f4ee601088")
+		(property "Sheetname" "PowerSupply"
+			(at 25.146 26.9744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSupply_sch.kicad_sch"
+			(at 25.146 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hr16_reverse_eng1"
+				(path "/99eda9a6-00e0-493c-b2d1-8a5acb1e41f8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

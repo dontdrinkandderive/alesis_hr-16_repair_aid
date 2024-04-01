@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "alesis")(type "KiCad")(uri "${KIPRJMOD}/alesis.kicad_sym")(options "")(descr ""))
+)
