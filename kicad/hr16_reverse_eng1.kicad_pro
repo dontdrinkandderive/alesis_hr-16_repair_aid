@@ -397,6 +397,10 @@
     [
       "36e7cded-d7c8-47ce-8393-af28b9ce42d8",
       "DAC"
+    ],
+    [
+      "de6249d7-7b56-4c65-a7e0-4d0324324c1d",
+      "lcd"
     ]
   ],
   "text_variables": {}

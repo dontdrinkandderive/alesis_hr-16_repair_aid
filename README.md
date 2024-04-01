@@ -40,7 +40,7 @@ This project has no commercial intentions and is merely a hobby project that was
 
 `LCD connected to J12`
 
-* 
+
 
 ## License
 

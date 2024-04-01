@@ -125,6 +125,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 195.834 27.178)
+		(size 56.642 32.512)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de6249d7-7b56-4c65-a7e0-4d0324324c1d")
+		(property "Sheetname" "lcd"
+			(at 195.834 26.4664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lcd.kicad_sch"
+			(at 195.834 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hr16_reverse_eng1"
+				(path "/99eda9a6-00e0-493c-b2d1-8a5acb1e41f8"
+					(page "5")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
